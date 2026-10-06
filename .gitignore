@@ -1,0 +1,5 @@
+# Godot 4 cache and generated files (Godot recreates them when the project is opened)
+.godot/
+*.import
+*.uid
+*.tmp

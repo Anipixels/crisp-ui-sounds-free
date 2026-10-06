@@ -1,0 +1,23 @@
+; Crisp UI Sounds Free - demo project. Open this folder in Godot 4.3 or newer and press F5,
+; or copy addons/crisp_ui_sounds_free into your own project.
+config_version=5
+
+[application]
+
+config/name="Crisp UI Sounds Free"
+run/main_scene="res://addons/crisp_ui_sounds_free/demo/sounds_demo.tscn"
+config/features=PackedStringArray("4.3")
+config/icon="res://icon.png"
+
+[autoload]
+
+CrispSfx="*res://addons/crisp_ui_sounds_free/crisp_sfx.gd"
+
+[display]
+
+window/size/viewport_width=960
+window/size/viewport_height=600
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/crisp_ui_sounds_free/plugin.cfg")

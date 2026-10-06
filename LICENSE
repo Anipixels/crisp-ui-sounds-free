@@ -1,0 +1,20 @@
+Crisp UI Sounds Free - assets licence
+Copyright (c) 2026 Anipixels
+
+The assets in this repository - the sounds (OGG) and the demo scene (.tscn) - are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+SPDX-License-Identifier: CC-BY-4.0
+
+To view a copy of this licence, visit https://creativecommons.org/licenses/by/4.0/
+(full legal text: https://creativecommons.org/licenses/by/4.0/legalcode).
+
+You are free to share and adapt the assets for any purpose, including commercially,
+as long as you give appropriate credit. Suggested credit:
+
+    Crisp UI Sounds Free by Anipixels - https://anipixels.itch.io/crisp-ui
+
+The GDScript files (*.gd) are not covered by this file; they are under the MIT
+licence, see LICENSE-CODE.
+
+This licence applies to the files in this free repository only. The paid full pack
+(Crisp UI, https://anipixels.itch.io/crisp-ui) is distributed under its own licence.
