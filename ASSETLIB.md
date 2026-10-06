@@ -58,6 +58,3 @@ How it was made: the sounds are synthesised procedurally by code written with an
   it works there. If you would rather claim only what was tested, pick the newest 4.x entry the form offers instead.
 - The `.gitattributes` file marks everything except `addons/` as `export-ignore`, so the zip the Asset Library downloads
   contains only `addons/crisp_ui_sounds_free/` (with its own README and licence copy).
-- `LICENSE` holds the CC BY 4.0 notice and link, not the full legal text of the licence (it could not be fetched while building
-  this offline). If you want GitHub to detect the licence, replace the body of `LICENSE` with the official text from
-  https://creativecommons.org/licenses/by/4.0/legalcode.txt and keep the attribution lines at the top.
